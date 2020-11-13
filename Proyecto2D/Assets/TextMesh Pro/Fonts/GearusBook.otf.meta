@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0917ef09b714aa442aedabe6be2cdb6d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gearus
+  fontNames:
+  - Gearus
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f3db3447262422649a094d17afbb2530, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
